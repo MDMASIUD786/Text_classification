@@ -1,1 +1,1 @@
-# Text_classification
+# Text_classification using naive bayes
